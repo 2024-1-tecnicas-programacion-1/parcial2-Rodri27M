@@ -7,8 +7,8 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class AutomovilTest {
-    // TODO: Descomenta el siguiente código una vez hayas completado la clase Automovil
-    /**
+     // TODO: Descomenta el siguiente código una vez hayas completado la clase Automovil
+
     private Automovil automovil;
 
     @BeforeEach
@@ -58,5 +58,5 @@ public class AutomovilTest {
         automovil.setTipoCombustible(TipoCombustible.ELECTRICO);
         assertEquals(TipoCombustible.ELECTRICO, automovil.getTipoCombustible());
     }
-    **/
+    
 }
